@@ -1,0 +1,12 @@
+{
+    "products": [
+        {"image": "bmw.jpg", "name": "Bmw", "price": 5800, "model": "M5", "available": true},
+        {"image": "audi.jpg", "name": "Audi", "price": 4200, "model": "A8", "available": true},
+        {"image": "nissan.jpg", "name": "Nissan", "price": 3800, "model": "Leaf", "available": true},
+        {"image": "renault.png", "name": "Renault", "price": 4000, "model": "Kwid", "available": true},
+        {"image": "kia.png", "name": "Kia", "price": 3500, "model": "S-Presso", "available": true},
+        {"image": "suzuki.png", "name": "Suzuki", "price": 4800, "model": "Alto 800", "available": true},
+        {"image": "hyundai.png", "name": "Hyundai", "price": 3600, "model": "Venue", "available": true},
+        {"image": "ford.png", "name": "Ford", "price": 3900, "model": "Focus", "available": true}
+    ]
+}
